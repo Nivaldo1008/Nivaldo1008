@@ -9,7 +9,7 @@ Passionate about crafting efficient and scalable solutions to complex problems, 
 - Programming Languages: Python, JavaScript
 - Frameworks & Libraries: Django, Flask, React, Vue.js
 - Databases: PostgreSQL, MySQL, MongoDB
-- Tools & DevOps: Git, Docker, Jenkins, AWS, Heroku
+- Tools & DevOps: Git, Docker, Jenkins, AWS, Heroku, Kibana, PowerBI, Tableau
 - Machine Learning: TensorFlow, PyTorch, scikit-learn
 - Testing & Deployment: Pytest, Selenium, CI/CD
 
