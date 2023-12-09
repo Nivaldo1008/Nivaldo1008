@@ -1,4 +1,4 @@
-# Hello, I'm Nivaldo. 👋
+# Hello. 👋
 
 ## Senior Python Developer | Software Engineer | Problem Solver
 
