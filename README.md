@@ -8,6 +8,7 @@ Passionate about crafting efficient and scalable solutions to complex problems, 
 
 - Programming Languages: Python, JavaScript
 - Frameworks & Libraries: Django, Flask, React, Vue.js
+- Odoo
 - Databases: PostgreSQL, MySQL, MongoDB
 - Tools & DevOps: Git, Docker, Jenkins, AWS, Heroku, Kibana, PowerBI, Tableau
 - Machine Learning: TensorFlow, PyTorch, scikit-learn
@@ -17,6 +18,7 @@ Passionate about crafting efficient and scalable solutions to complex problems, 
 
 - A web application developed using Django, PostgreSQL, and React. Integrated external APIs and implemented advanced authentication mechanisms.
 - Implemented a scalable machine learning solution using TensorFlow for real-time image recognition.
+- Delivered successful ERP solutions for organizations across various industries.
 - Led a team of developers in developing a RESTful API using Flask that handled thousands of requests per second.
 
 ### ✨ Achievements & Certifications
